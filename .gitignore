@@ -1,0 +1,16 @@
+# Node dependencies (Phase 1)
+node_modules/
+
+# Flutter/Dart build files (Phase 3)
+build/
+.dart_tool/
+.packages
+
+# Massive Forensic Image Files (Phase 4 & 5)
+*.E01
+*.raw
+*.dd
+*.iso
+
+# Environment Variables & Keys
+.env
